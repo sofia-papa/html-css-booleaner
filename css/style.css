@@ -1,17 +1,14 @@
 header{
     background-image: url("../img/pattern.png");
     background-color: cornflowerblue;
-    
- 
-section h1{
-    
-}
-     
-    
+    background-size: 40%;
+    height: 100px;
+    line-height: 100px;
 }
 
 .header-image{
-    width: 400px;
+    width: 200px;
+    
 }
 
 #photos{
@@ -22,7 +19,16 @@ section h1{
 table{
     table-layout: fixed;
     width: 100%;
+    
 }
+
+#firstline{
+    background-color: rgb(0, 153, 255);
+    text-align: left;
+    color: white;
+}
+
+
 
 #image-1{
     background-image: url("../img/monitor.jpg");
@@ -40,5 +46,4 @@ table{
 
 h3{
     color: gray;
-}
 }
