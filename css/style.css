@@ -1,0 +1,44 @@
+header{
+    background-image: url("../img/pattern.png");
+    background-color: cornflowerblue;
+    
+ 
+section h1{
+    
+}
+     
+    
+}
+
+.header-image{
+    width: 400px;
+}
+
+#photos{
+    font-size: 10px;
+}
+
+
+table{
+    table-layout: fixed;
+    width: 100%;
+}
+
+#image-1{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    max-width: inherit;
+}
+
+#image-2{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+h3{
+    color: gray;
+}
+}
